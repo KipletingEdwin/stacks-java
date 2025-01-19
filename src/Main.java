@@ -9,6 +9,8 @@ public class Main {
 //        System.out.println(stack.empty());
 
         stack.push("Minecraft");
+        stack.push("Skyrim");
+
 
 
     }
