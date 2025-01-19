@@ -17,8 +17,10 @@ public class Main {
 //        String myFavGame = stack.pop();
 //        System.out.println(myFavGame);
 
-        String checkFirstItem = stack.peek();
-        System.out.println(checkFirstItem);
+//        String checkFirstItem = stack.peek();
+//        System.out.println(checkFirstItem);
+
+        System.out.println(stack.search("Minecraft"));
 
 
     }
