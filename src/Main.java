@@ -12,6 +12,7 @@ public class Main {
         stack.push("Skyrim");
         stack.push("DOOM");
         stack.push("Borderlands");
+        stack.push("FFVII");
 
 
 
