@@ -14,9 +14,11 @@ public class Main {
         stack.push("Borderlands");
         stack.push("FFVII");
 
-        String myFavGame = stack.pop();
+//        String myFavGame = stack.pop();
+//        System.out.println(myFavGame);
 
-        System.out.println(myFavGame);
+        String checkFirstItem = stack.peek();
+        System.out.println(checkFirstItem);
 
 
     }
