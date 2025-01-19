@@ -4,6 +4,8 @@ import java.util.Stack;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+        // stack  =   LIFO data structure. Last-In First-Out
+
         Stack<String> stack = new Stack<String>();
 
 //        System.out.println(stack.empty());
